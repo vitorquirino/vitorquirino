@@ -24,4 +24,4 @@
  	<a href="https://www.twitch.tv/v1torfp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blaank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>    
-![Snake animation](https://github.com/vitorquirino/vitorquirino/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vitorquirino/vitorquirino/blob/output/github-contribution-grid-snake.svg)
