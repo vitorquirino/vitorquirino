@@ -15,6 +15,9 @@
 <br/>
 
 
+
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vitorquirino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -66,8 +69,27 @@
 </div>
 
 
+<br/>
+<br/>
+
+
+ <div align="center">
+   <img src="https://thumbs.gfycat.com/BossyAntiqueHippopotamus-size_restricted.gif" height=200 width="30%">
+  <img src="https://media.giphy.com/media/Pq9XWZjaZNDHvgqYIZ/giphy.gif?raw=true" height=200 width="30%">
+  <img src="https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif?raw=true" height=200 width="30%"> 
+   </div>
+ <br>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000F&height=120&section=footer"/>
+
+
+
+
+
+
+
 
 
 
